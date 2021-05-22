@@ -1,5 +1,7 @@
 # Quick Stage
 ##### A CS50 Harvard Final Project 2021, by Samuel Christofan Auditama
+#### Video Demo:
+#### Contact me: samuel.auditama@gmail.com
 
 ## Overview
 Hi, my name is Samuel, I'm a 3D artist from Jakarta, Indonesia. I took CS50 because I wanted to have complimentary skills to my primary trade: 3D animation and motion graphics.
