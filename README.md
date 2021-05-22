@@ -13,6 +13,7 @@ It does so by introducing these features:
 - Spawning preset light setups.
 
 A more detailed explanation below.
+If you would like to know how the script works, you can take a peek inside the py file as I put in a generous amount of comment within it, so as to show you how it works.
 
 ## Installation
 Installation is pretty simple, even if you have never used Blender before:
