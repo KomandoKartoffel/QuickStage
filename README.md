@@ -1,6 +1,6 @@
 # Quick Stage
 ##### A CS50 Harvard Final Project 2021, by Samuel Christofan Auditama
-#### Video Demo:
+#### Video Demo: [CS50 2021 Final Project: Quick Stage](https://youtu.be/m5tGzaXniIc)
 #### Contact me: samuel.auditama@gmail.com
 
 ## Overview
